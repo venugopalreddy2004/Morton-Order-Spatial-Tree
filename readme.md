@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Language: C++17](https://img.shields.io/badge/Language-C++17-blue.svg)](https://isocpp.org/)
-[![Benchmark: vs. R*-Tree](https://img.shields.io/badge/Benchmark-vs._R*-Tree-red.svg)](https://en.wikipedia.org/wiki/R*-tree)
 
 A novel C++17 implementation of a spatial index that significantly outperforms traditional R*-trees for dynamic, high-dimensional workloads. **MOST (Morton-Ordered Spatial Tree)** maps 6D coordinates to a 1D Z-order curve and leverages a high-performance B-Tree, demonstrating a scalable and efficient solution for challenges in robotics, autonomous systems, and real-time tracking.
 
@@ -90,8 +89,8 @@ The demonstrated performance gains are not just academic; they unlock new capabi
 
 1.  **Clone this repository:**
     ```bash
-    git clone https://github.com/venugopalreddy2004/Morton-Order-Spatial-Tree-MOST-.git
-    cd Morton-Order-Spatial-Tree-MOST-
+    git clone https://github.com/venugopalreddy2004/Morton-Order-Spatial-Tree.git
+    cd Morton-Order-Spatial-Tree
     ```
 
 2.  **Set up dependencies:**
