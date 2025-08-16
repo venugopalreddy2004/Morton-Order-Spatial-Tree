@@ -90,8 +90,8 @@ The demonstrated performance gains are not just academic; they unlock new capabi
 
 1.  **Clone this repository:**
     ```bash
-    git clone [Your-Repo-Link-Here]
-    cd [Your-Repo-Name]
+    git clone https://github.com/venugopalreddy2004/Morton-Order-Spatial-Tree-MOST-.git
+    cd Morton-Order-Spatial-Tree-MOST-
     ```
 
 2.  **Set up dependencies:**
